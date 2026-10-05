@@ -1,0 +1,6 @@
+{
+  "name": "PromptGram",
+  "description": "Discover trending social media AI photo prompts, generate vintage 70s memories, partner wallpapers, and save stunning photos to your gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
